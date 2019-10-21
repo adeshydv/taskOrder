@@ -1,0 +1,13 @@
+{
+  "name": "teskexecutionorder",
+  "version": "1.0.0",
+  "description": "task execution order",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Adesh Yadav",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
